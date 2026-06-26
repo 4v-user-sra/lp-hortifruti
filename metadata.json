@@ -1,0 +1,6 @@
+{
+  "name": "Hortifruti Popular B2B",
+  "description": "Landing page de alta conversão para pedidos B2B via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
